@@ -1,0 +1,3 @@
+References:
+Mean and Average Definition: https://medium.com/@seema.singh/average-vs-mean-534b1ac85401
+Average Pooling: https://paperswithcode.com/method/average-pooling
